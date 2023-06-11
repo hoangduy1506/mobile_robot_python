@@ -1,0 +1,21 @@
+[0.376s] Invoking command in '/home/dev/git/mobile_robot_python/ros2_ws/src/my_pypkg': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_pypkg build --build-base /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build install --record /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/install.log --install-scripts $base/lib/my_pypkg --single-version-externally-managed
+[0.490s] running egg_info
+[0.490s] writing ../../build/my_pypkg/my_pypkg.egg-info/PKG-INFO
+[0.491s] writing dependency_links to ../../build/my_pypkg/my_pypkg.egg-info/dependency_links.txt
+[0.491s] writing entry points to ../../build/my_pypkg/my_pypkg.egg-info/entry_points.txt
+[0.491s] writing requirements to ../../build/my_pypkg/my_pypkg.egg-info/requires.txt
+[0.492s] writing top-level names to ../../build/my_pypkg/my_pypkg.egg-info/top_level.txt
+[0.511s] reading manifest file '../../build/my_pypkg/my_pypkg.egg-info/SOURCES.txt'
+[0.512s] writing manifest file '../../build/my_pypkg/my_pypkg.egg-info/SOURCES.txt'
+[0.512s] running build
+[0.512s] running build_py
+[0.512s] running install
+[0.513s] running install_lib
+[0.514s] running install_data
+[0.514s] running install_egg_info
+[0.515s] removing '/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my_pypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.515s] Copying ../../build/my_pypkg/my_pypkg.egg-info to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my_pypkg-0.0.0-py3.8.egg-info
+[0.516s] running install_scripts
+[0.527s] Installing py_node script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.528s] writing list of installed files to '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/install.log'
+[0.540s] Invoked command in '/home/dev/git/mobile_robot_python/ros2_ws/src/my_pypkg' returned '0': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_pypkg build --build-base /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build install --record /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/install.log --install-scripts $base/lib/my_pypkg --single-version-externally-managed
