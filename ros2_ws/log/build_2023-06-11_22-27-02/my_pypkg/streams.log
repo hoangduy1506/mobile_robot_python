@@ -1,0 +1,18 @@
+[0.371s] Invoking command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data
+[0.492s] running develop
+[0.559s] running egg_info
+[0.559s] writing my_pypkg.egg-info/PKG-INFO
+[0.559s] writing dependency_links to my_pypkg.egg-info/dependency_links.txt
+[0.560s] writing entry points to my_pypkg.egg-info/entry_points.txt
+[0.562s] writing requirements to my_pypkg.egg-info/requires.txt
+[0.562s] writing top-level names to my_pypkg.egg-info/top_level.txt
+[0.582s] reading manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.582s] writing manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.614s] running build_ext
+[0.614s] Creating /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my-pypkg.egg-link (link to .)
+[0.615s] Installing py_node script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.616s] Installing robot_news_station script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.616s] 
+[0.616s] Installed /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg
+[0.616s] running install_data
+[0.636s] Invoked command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg' returned '0': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data

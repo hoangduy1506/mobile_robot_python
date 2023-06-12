@@ -10,7 +10,14 @@ setup.py
 ../../build/my_pypkg/my_pypkg.egg-info/zip-safe
 my_pypkg/__init__.py
 my_pypkg/my_first_node.py
+my_pypkg/node_template.py
+my_pypkg/robot_news_station.py
+my_pypkg/smartphone.py
+my_pypkg.egg-info/PKG-INFO
+my_pypkg.egg-info/SOURCES.txt
+my_pypkg.egg-info/dependency_links.txt
+my_pypkg.egg-info/entry_points.txt
+my_pypkg.egg-info/requires.txt
+my_pypkg.egg-info/top_level.txt
+my_pypkg.egg-info/zip-safe
 resource/my_pypkg
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
