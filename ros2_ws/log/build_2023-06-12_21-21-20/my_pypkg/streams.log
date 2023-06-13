@@ -1,0 +1,22 @@
+[0.390s] Invoking command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data
+[0.519s] running develop
+[0.591s] running egg_info
+[0.591s] writing my_pypkg.egg-info/PKG-INFO
+[0.592s] writing dependency_links to my_pypkg.egg-info/dependency_links.txt
+[0.592s] writing entry points to my_pypkg.egg-info/entry_points.txt
+[0.592s] writing requirements to my_pypkg.egg-info/requires.txt
+[0.592s] writing top-level names to my_pypkg.egg-info/top_level.txt
+[0.614s] reading manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.614s] writing manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.636s] running build_ext
+[0.636s] Creating /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my-pypkg.egg-link (link to .)
+[0.637s] Installing add_two_ints_clients script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing add_two_ints_clients_no_oop script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing add_two_ints_server script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing py_node script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing robot_news_station script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing smartphone script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.639s] 
+[0.639s] Installed /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg
+[0.639s] running install_data
+[0.655s] Invoked command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg' returned '0': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data

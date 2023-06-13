@@ -9,8 +9,13 @@ setup.py
 ../../build/my_pypkg/my_pypkg.egg-info/top_level.txt
 ../../build/my_pypkg/my_pypkg.egg-info/zip-safe
 my_pypkg/__init__.py
+my_pypkg/add_two_ints_clients.py
+my_pypkg/add_two_ints_clients_no_oop.py
+my_pypkg/add_two_ints_server.py
 my_pypkg/my_first_node.py
 my_pypkg/node_template.py
+my_pypkg/number_counter.py
+my_pypkg/number_publisher.py
 my_pypkg/robot_news_station.py
 my_pypkg/smartphone.py
 my_pypkg.egg-info/PKG-INFO

@@ -22,7 +22,12 @@ setup(
         'console_scripts': [
             "py_node = my_pypkg.my_first_node:main",
             "robot_news_station = my_pypkg.robot_news_station:main",
-            "smartphone = my_pypkg.smartphone:main"
+            "smartphone = my_pypkg.smartphone:main",
+            "add_two_ints_server = my_pypkg.add_two_ints_server:main",
+            "add_two_ints_clients_no_oop = my_pypkg.add_two_ints_clients_no_oop:main",
+            "add_two_ints_clients = my_pypkg.add_two_ints_clients:main",
+            "number_publisher = my_pypkg.number_publisher:main",
+            "number_counter = my_pypkg.number_counter:main"
         ],
     },
 )

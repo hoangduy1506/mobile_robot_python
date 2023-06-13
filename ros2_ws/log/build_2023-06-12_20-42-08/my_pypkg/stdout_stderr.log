@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing my_pypkg.egg-info/PKG-INFO
+writing dependency_links to my_pypkg.egg-info/dependency_links.txt
+writing entry points to my_pypkg.egg-info/entry_points.txt
+writing requirements to my_pypkg.egg-info/requires.txt
+writing top-level names to my_pypkg.egg-info/top_level.txt
+reading manifest file 'my_pypkg.egg-info/SOURCES.txt'
+writing manifest file 'my_pypkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my-pypkg.egg-link (link to .)
+Installing add_two_ints_server script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+Installing py_node script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+Installing robot_news_station script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+Installing smartphone script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+
+Installed /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg
+running install_data
