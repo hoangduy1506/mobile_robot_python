@@ -27,7 +27,10 @@ setup(
             "add_two_ints_clients_no_oop = my_pypkg.add_two_ints_clients_no_oop:main",
             "add_two_ints_clients = my_pypkg.add_two_ints_clients:main",
             "number_publisher = my_pypkg.number_publisher:main",
-            "number_counter = my_pypkg.number_counter:main"
+            "number_counter = my_pypkg.number_counter:main",
+            "hw_status_publisher = my_pypkg.hw_status_publisher:main",
+            "led_panel = my_pypkg.led_panel:main",
+            "battery = my_pypkg.battery:main"
         ],
     },
 )

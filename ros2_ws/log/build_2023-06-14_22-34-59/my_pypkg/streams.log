@@ -1,0 +1,26 @@
+[0.389s] Invoking command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data
+[0.523s] running develop
+[0.588s] running egg_info
+[0.589s] writing my_pypkg.egg-info/PKG-INFO
+[0.589s] writing dependency_links to my_pypkg.egg-info/dependency_links.txt
+[0.589s] writing entry points to my_pypkg.egg-info/entry_points.txt
+[0.589s] writing requirements to my_pypkg.egg-info/requires.txt
+[0.589s] writing top-level names to my_pypkg.egg-info/top_level.txt
+[0.610s] reading manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.611s] writing manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.633s] running build_ext
+[0.634s] Creating /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my-pypkg.egg-link (link to .)
+[0.635s] Installing add_two_ints_clients script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.636s] Installing add_two_ints_clients_no_oop script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.637s] Installing add_two_ints_server script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.637s] Installing hw_status_publisher script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing led_panel script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.638s] Installing number_counter script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.639s] Installing number_publisher script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.639s] Installing py_node script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.640s] Installing robot_news_station script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.640s] Installing smartphone script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.641s] 
+[0.641s] Installed /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg
+[0.641s] running install_data
+[0.657s] Invoked command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg' returned '0': PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data

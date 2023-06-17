@@ -54,6 +54,13 @@ CMAKE_BINARY_DIR = /home/dev/git/mobile_robot_python/ros2_ws/build/my_robot_inte
 include CMakeFiles/my_robot_interfaces.dir/progress.make
 
 CMakeFiles/my_robot_interfaces: /home/dev/git/mobile_robot_python/ros2_ws/src/my_robot_interfaces/msg/HardwareStatus.msg
+CMakeFiles/my_robot_interfaces: /home/dev/git/mobile_robot_python/ros2_ws/src/my_robot_interfaces/msg/LedStateArray.msg
+CMakeFiles/my_robot_interfaces: /home/dev/git/mobile_robot_python/ros2_ws/src/my_robot_interfaces/srv/ComputeRectangleArea.srv
+CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/ComputeRectangleArea_Request.msg
+CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/ComputeRectangleArea_Response.msg
+CMakeFiles/my_robot_interfaces: /home/dev/git/mobile_robot_python/ros2_ws/src/my_robot_interfaces/srv/SetLed.srv
+CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/SetLed_Request.msg
+CMakeFiles/my_robot_interfaces: rosidl_cmake/srv/SetLed_Response.msg
 
 
 my_robot_interfaces: CMakeFiles/my_robot_interfaces

@@ -1,0 +1,25 @@
+[0.438s] Invoking command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg': AMENT_PREFIX_PATH=/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces LD_LIBRARY_PATH=/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data
+[0.593s] running develop
+[0.667s] running egg_info
+[0.676s] writing my_pypkg.egg-info/PKG-INFO
+[0.676s] writing dependency_links to my_pypkg.egg-info/dependency_links.txt
+[0.676s] writing entry points to my_pypkg.egg-info/entry_points.txt
+[0.676s] writing requirements to my_pypkg.egg-info/requires.txt
+[0.676s] writing top-level names to my_pypkg.egg-info/top_level.txt
+[0.697s] reading manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.698s] writing manifest file 'my_pypkg.egg-info/SOURCES.txt'
+[0.716s] running build_ext
+[0.717s] Creating /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages/my-pypkg.egg-link (link to .)
+[0.719s] Installing add_two_ints_clients script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.719s] Installing add_two_ints_clients_no_oop script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.719s] Installing add_two_ints_server script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] Installing hw_status_publisher script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] Installing number_counter script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] Installing number_publisher script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] Installing py_node script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] Installing robot_news_station script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] Installing smartphone script to /home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/my_pypkg
+[0.720s] 
+[0.720s] Installed /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg
+[0.720s] running install_data
+[0.741s] Invoked command in '/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg' returned '0': AMENT_PREFIX_PATH=/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces LD_LIBRARY_PATH=/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/prefix_override:/home/dev/git/mobile_robot_python/ros2_ws/install/my_pypkg/lib/python3.8/site-packages:/home/dev/git/mobile_robot_python/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/dev/git/mobile_robot_python/ros2_ws/build/my_pypkg/build --no-deps install_data

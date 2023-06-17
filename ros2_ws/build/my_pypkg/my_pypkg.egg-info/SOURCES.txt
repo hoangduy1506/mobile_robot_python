@@ -12,6 +12,9 @@ my_pypkg/__init__.py
 my_pypkg/add_two_ints_clients.py
 my_pypkg/add_two_ints_clients_no_oop.py
 my_pypkg/add_two_ints_server.py
+my_pypkg/battery.py
+my_pypkg/hw_status_publisher.py
+my_pypkg/led_panel.py
 my_pypkg/my_first_node.py
 my_pypkg/node_template.py
 my_pypkg/number_counter.py
